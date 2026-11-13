@@ -1,0 +1,23 @@
+# Exact aarch64/py3.12 wheels bundled in the .muxapp. Hashes checked by build_muxapp.py.
+bleak==3.0.2 --hash=sha256:39092feb9e83f1df5ad2f88e837723c7211c982ce9e9cda6235104bc2ebe0d0d
+certifi==2026.10.23 --hash=sha256:e9b54de76e530bb6cf0ccd036787103acb58fd42ba930ea8bf948ddbaa2f61d1
+charset_normalizer==3.5.2 --hash=sha256:b91363207bd9dc966a691e959bb47f64b30f7ac4b072be9968b366982f7db77c
+contact==1.7.4 --hash=sha256:03aeb099e2ca7ac5af0c321c97d0f7fe73d6bc27abeb90072f1135345d721acd
+dbus_fast==5.2.0 --hash=sha256:e5a0742c9c2bdae7599d1fff06a609cc7cf19d4a84bf7e6e2cea1d086d1ecc0b
+idna==3.20 --hash=sha256:ab7ae7122974553370f0bdb919e1a960b2cd1bc1ef0276416d896db81c14582c
+meshcore==2.3.17 --hash=sha256:d8ba29b7eeecd7c6e7a4036bdcbbcf8533cb925dc884985ac664026830535357
+meshcore_cli==1.6.9 --hash=sha256:78d69abb836629093e981dbc67882532fa4a7b13ba434c9c56fdea5057ae0f39
+meshtastic==2.7.11 --hash=sha256:adb020f2cd7ace53896c6bf487f2d2136498dd88052c41a2aa6fb7a4634971b5
+packaging==26.3 --hash=sha256:d7193f7c8e4e93f444fde0262bf90af30e16fa0ad0ad44cb553c87339b23cd1c
+prompt_toolkit==3.0.53 --hash=sha256:01c0891d7f9237d5e339f7d3e42cdae80b7534abb1c7c0e3352efba6231492f2
+protobuf==7.36.2 --hash=sha256:e11e1f0180583a2af89db6a2ecd9e8dc40aa6d2988ca175bfd0e6d12ea72d74e
+pycayennelpp==2.4.0 --hash=sha256:a3e69ea4da9e2971a44d1e275d5555617b2345eea752325f28c0356f64901d62
+pycryptodome==4.3.0 --hash=sha256:c7e8f84d406ab75117de563a93b61ff97236cc59b5570c8c36a7ce3427f6f931
+pypubsub==4.0.7 --hash=sha256:89c3e274e634fea19de881bb45152815d9c1aaa0120215f85200ba56843372f4
+pyserial==3.5 --hash=sha256:c4451db6ba391ca6ca299fb3ec7bae67a5c55dde170964c7a14ceefec02f2cf0
+pyserial_asyncio_fast==0.16 --hash=sha256:88939d94e341a04c0c8bc3c1ed4e874439cb5a1e21ccfb0fd7315a8e45df1687
+pyyaml==6.0.3 --hash=sha256:9149cad251584d5fb4981be1ecde53a1ca46c891a79788c0df828d2f166bda28
+requests==2.34.2 --hash=sha256:2a0d60c172f83ac6ab31e4554906c0f3b3588d37b5cb939b1c061f4907e278e0
+tabulate==0.10.0 --hash=sha256:f0b0622e567335c8fabaaa659f1b33bcb6ddfe2e496071b743aa113f8774f2d3
+urllib3==2.8.0 --hash=sha256:0cf3cae568d36aa9576b28dfb35f11328f1cb974ca7647d9475ebb86c75ac6e3
+wcwidth==0.9.4 --hash=sha256:093469e01d881bff3db93ff3f56c364dc87c441ea01f9f41c22de0c0bdf5c6ef

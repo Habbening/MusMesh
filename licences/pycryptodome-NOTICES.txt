@@ -1,0 +1,24 @@
+Copyright notices from the headers of the pycryptodome 4.3.0 C sources compiled into the Crypto/*.so
+files. The licence above says these headers carry the copyright notices. Files with these notices
+are BSD-2-Clause. Some modules (among them AES, ARC4, CAST, MD2, MD4, RIPEMD160, Salsa20, keccak)
+have a public domain main source, but also compile in BSD-2-Clause shared code (such as common.h,
+block_common.c, salsa20_core.h) whose notices are below. The mldsa-native and mlkem-native lines
+fall under their own licences above. Some lines come from sources of modules this package leaves out.
+
+Copyright (c) 2014, Legrandin <helderijs@gmail.com>
+Copyright (c) 2015, Legrandin <helderijs@gmail.com>
+Copyright (c) 2018, Helder Eijs <helderijs@gmail.com>
+Copyright (c) 2022, Helder Eijs <helderijs@gmail.com>
+Copyright (C) 2024 by Helder Eijs <helderijs@gmail.com> -- All rights reserved.
+SPDX-FileCopyrightText: 2014 Legrandin <helderijs@gmail.com>
+SPDX-FileCopyrightText: 2015 Legrandin <helderijs@gmail.com>
+SPDX-FileCopyrightText: 2018 Helder Eijs <helderijs@gmail.com>
+SPDX-FileCopyrightText: 2019 Helder Eijs <helderijs@gmail.com>
+SPDX-FileCopyrightText: 2021 Helder Eijs <helderijs@gmail.com>
+SPDX-FileCopyrightText: 2022 Helder Eijs <helderijs@gmail.com>
+SPDX-FileCopyrightText: 2022-2026 Helder Eijs <helderijs@gmail.com>
+SPDX-FileCopyrightText: 2024-2026 Helder Eijs <helderijs@gmail.com>
+SPDX-FileCopyrightText: 2026 Helder Eijs <helderijs@gmail.com>
+SPDX-FileCopyrightText: 2026 Legrandin <helderijs@gmail.com>
+Copyright (c) The mldsa-native project authors
+Copyright (c) The mlkem-native project authors
